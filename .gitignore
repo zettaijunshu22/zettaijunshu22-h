@@ -1,0 +1,10 @@
+*.pyc
+build/
+.idea/
+.cache/
+.venv/
+venv/
+MANIFEST
+.coverage
+*.xml
+*.xml.html
